@@ -1,4 +1,4 @@
 chinglish
 =========
 
-Web-based Chinese-English dictionary
+Web-based Chinese-English dictionary. Uses cedict.
