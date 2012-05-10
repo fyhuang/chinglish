@@ -1,3 +1,8 @@
+import sys
+if sys.version_info[0] < 3:
+    print("Requires Python 3.x!")
+    sys.exit(1)
+
 import bottle
 from bottle import route, view, request, template
 from cedict import *
